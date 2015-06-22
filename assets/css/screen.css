@@ -501,11 +501,11 @@ article .text small {
 }
 article .text pre {
     padding: 14px 20px;
-    font-size: 16px;
+    font-size: 14px;
     max-width: 100%;
     overflow-x: auto;
     line-height: 1.4em;
-    font-family: "Courier New", "Courier", monospace;
+    font-family: Menlo, Monaco, monospace;
     -webkit-font-smoothing: subpixel-antialiased;
     border: 1px solid #ededee;
     background-color: #f9f9fa;
@@ -529,10 +529,9 @@ article .text code {
     zoom: 1;
     *display: inline;
     max-width: 100%;
-    overflow-x: auto;
     padding: 0 5px;
-    font-size: 16px;
-    font-family: "Courier New", "Courier", monospace;
+    font-size: 14px;
+    font-family: Menlo, Monaco, monospace;
     -webkit-font-smoothing: subpixel-antialiased;
     border: 1px solid #ededee;
     background-color: #f9f9fa;
